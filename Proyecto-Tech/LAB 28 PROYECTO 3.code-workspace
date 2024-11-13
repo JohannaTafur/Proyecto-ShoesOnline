@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../LAB 28 PROYECTO 3"
+		},
+		{
+			"name": "Proyecto-Tech",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Proyecto-Tech"
+	}
+}
